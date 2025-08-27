@@ -14,8 +14,8 @@
 					tech: 'AngularJs & bootstrap',
 					image_src: 'images/projects/resized/restaurant.jpg',
 					full_image_src: 'images/projects/resized/restaurant.jpg',
-					code_url: 'https://github.com/sherifkhattab/coursera-ng/tree/master/module-5-assignment',
-					view_url: 'https://sherifkhattab.github.io/coursera-ng/module-5-assignment/',
+					code_url: 'https://github.com/sherifkhattab13/coursera-ng/tree/master/module-5-assignment',
+					view_url: 'https://sherifkhattab13.github.io/coursera-ng/module-5-assignment/',
 					category: 'website' 
 				},
 				{
@@ -23,8 +23,8 @@
 					tech: 'AngularJs & bootstrap',
 					image_src: 'images/projects/resized/confusion.jpg',
 					full_image_src: 'images/projects/resized/confusion.jpg',
-					code_url: 'https://github.com/sherifkhattab/indian-restaurant-template/',
-					view_url: 'https://sherifkhattab.github.io/indian-restaurant-template',
+					code_url: 'https://github.com/sherifkhattab13/indian-restaurant-template/',
+					view_url: 'https://sherifkhattab13.github.io/indian-restaurant-template',
 					category: 'website favorite' 
 				},
 				{
@@ -32,8 +32,8 @@
 					tech: 'HTML & CSS',
 					image_src: 'images/projects/resized/bbc.jpg',
 					full_image_src: 'images/projects/resized/bbc.jpg',
-					code_url: 'https://github.com/sherifkhattab/bbc',
-					view_url: 'https://sherifkhattab.github.io/bbc/',
+					code_url: 'https://github.com/sherifkhattab13/bbc',
+					view_url: 'https://sherifkhattab13.github.io/bbc/',
 					category: 'website' 
 				},
 				{
@@ -41,8 +41,8 @@
 					tech: 'Bootstrap & AngularJs',
 					image_src: 'images/projects/resized/myPortfolio.jpg',
 					full_image_src: 'images/projects/resized/myPortfolio.jpg',
-					code_url: 'https://github.com/sherifkhattab/portfolio',
-					view_url: 'https://sherifkhattab.github.io/portfolio/',
+					code_url: 'https://github.com/sherifkhattab13/portfolio',
+					view_url: 'https://sherifkhattab13.github.io/portfolio/',
 					category: 'website favorite'
 				},
 				{
@@ -50,8 +50,8 @@
 					tech: 'jQuery & bootstrap',
 					image_src: 'images/projects/resized/quiz.jpg',
 					full_image_src: 'images/projects/resized/quiz.jpg',
-					code_url: 'https://github.com/sherifkhattab/quiz',
-					view_url: 'https://sherifkhattab.github.io/quiz',
+					code_url: 'https://github.com/sherifkhattab13/quiz',
+					view_url: 'https://sherifkhattab13.github.io/quiz',
 					category: 'app favorite' 
 				},
 				{
@@ -59,8 +59,8 @@
 					tech: 'Bootstrap & AngularJs',
 					image_src: 'images/projects/resized/weather-forecast.jpg',
 					full_image_src: 'images/projects/resized/weather-forecast.jpg',
-					code_url: 'https://github.com/sherifkhattab/weather',
-					view_url: 'https://sherifkhattab.github.io/weather',
+					code_url: 'https://github.com/sherifkhattab13/weather',
+					view_url: 'https://sherifkhattab13.github.io/weather',
 					category: 'app favorite' 
 				},
 				{
@@ -68,8 +68,8 @@
 					tech: 'Javascript',
 					image_src: 'images/projects/resized/code-editor.jpg',
 					full_image_src: 'images/projects/resized/code-editor.jpg',
-					code_url: 'https://github.com/sherifkhattab/editor/',
-					view_url: 'https://sherifkhattab.github.io/editor/',
+					code_url: 'https://github.com/sherifkhattab13/editor/',
+					view_url: 'https://sherifkhattab13.github.io/editor/',
 					category: 'app favorite' 
 				},
 				{
@@ -77,8 +77,8 @@
 					tech: 'Javascript',
 					image_src: 'images/projects/resized/finder.jpg',
 					full_image_src: 'images/projects/resized/finder.jpg',
-					code_url: 'https://github.com/sherifkhattab/finder/',
-					view_url: 'https://sherifkhattab.github.io/finder/',
+					code_url: 'https://github.com/sherifkhattab13/finder/',
+					view_url: 'https://sherifkhattab13.github.io/finder/',
 					category: 'app favorite' 
 				},
 				{
@@ -86,8 +86,8 @@
 					tech: 'Javascript',
 					image_src: 'images/projects/resized/reaction.jpg',
 					full_image_src: 'images/projects/resized/reaction.jpg',
-					code_url: 'https://github.com/sherifkhattab/reaction/',
-					view_url: 'https://sherifkhattab.github.io/reaction/',
+					code_url: 'https://github.com/sherifkhattab13/reaction/',
+					view_url: 'https://sherifkhattab13.github.io/reaction/',
 					category: 'game' 
 				},
 				{
@@ -95,8 +95,8 @@
 					tech: 'Javascript OOP',
 					image_src: 'images/projects/resized/animated-car.jpg',
 					full_image_src: 'images/projects/resized/animated-car.jpg',
-					code_url: 'https://github.com/sherifkhattab/animated_car/',
-					view_url: 'https://sherifkhattab.github.io/animated_car/',
+					code_url: 'https://github.com/sherifkhattab13/animated_car/',
+					view_url: 'https://sherifkhattab13.github.io/animated_car/',
 					category: 'animation' 
 				},
 				{
@@ -104,24 +104,24 @@
 					tech: 'CSS',
 					image_src: 'images/projects/resized/css-car.jpg',
 					full_image_src: 'images/projects/resized/css-car.jpg',
-					code_url: 'https://github.com/sherifkhattab/css_animated_car/',
-					view_url: 'https://sherifkhattab.github.io/css_animated_car/',
+					code_url: 'https://github.com/sherifkhattab13/css_animated_car/',
+					view_url: 'https://sherifkhattab13.github.io/css_animated_car/',
 					category: 'animation' },
 				{
 					title: 'Animation',
 					tech: 'processingJs',
 					image_src: 'images/projects/resized/animation.jpg',
 					full_image_src: 'images/projects/resized/animation.jpg',
-					code_url: 'https://github.com/sherifkhattab/processingJs_projects/blob/master/animated_balls.html',
-					view_url: 'https://sherifkhattab.github.io/processingJs_projects/animated_balls.html',
+					code_url: 'https://github.com/sherifkhattab13/processingJs_projects/blob/master/animated_balls.html',
+					view_url: 'https://sherifkhattab13.github.io/processingJs_projects/animated_balls.html',
 					category: 'animation' },
 				{
 					title: 'Table tennis game',
 					tech: 'Javascript',
 					image_src: 'images/projects/resized/tennis.jpg',
 					full_image_src: 'images/projects/resized/tennis.jpg',
-					code_url: 'https://github.com/sherifkhattab/table_tennis_game/',
-					view_url: 'https://sherifkhattab.github.io/table_tennis_game/',
+					code_url: 'https://github.com/sherifkhattab13/table_tennis_game/',
+					view_url: 'https://sherifkhattab13.github.io/table_tennis_game/',
 					category: 'game' 
 				},
 				{
@@ -129,8 +129,8 @@
 					tech: 'processingJs',
 					image_src: 'images/projects/resized/ball-catch.jpg',
 					full_image_src: 'images/projects/resized/ball-catch.jpg',
-					code_url: 'https://github.com/sherifkhattab/processingJs_projects/blob/master/ball_catch.html',
-					view_url: 'https://sherifkhattab.github.io/processingJs_projects/ball_catch.html',
+					code_url: 'https://github.com/sherifkhattab13/processingJs_projects/blob/master/ball_catch.html',
+					view_url: 'https://sherifkhattab13.github.io/processingJs_projects/ball_catch.html',
 					category: 'game' 
 				},
 				{
@@ -138,8 +138,8 @@
 					tech: 'Javascript',
 					image_src: 'images/projects/resized/matching.jpg',
 					full_image_src: 'images/projects/resized/matching.jpg',
-					code_url: 'https://github.com/sherifkhattab/matching_game/',
-					view_url: 'https://sherifkhattab.github.io/matching_game/',
+					code_url: 'https://github.com/sherifkhattab13/matching_game/',
+					view_url: 'https://sherifkhattab13.github.io/matching_game/',
 					category: 'game'
 				}
 			];
